@@ -1,0 +1,1966 @@
+{
+    "search_metadata": {
+        "count": 15,
+        "completed_in": 0.023,
+        "max_id_str": "485038535771049984",
+        "since_id_str": "0",
+        "next_results": "?max_id=484863372601483263&q=%23uxchat%20until%3A2014-07-05&include_entities=1",
+        "refresh_url": "?since_id=485038535771049984&q=%23uxchat%20until%3A2014-07-05&include_entities=1",
+        "since_id": 0,
+        "query": "%23uxchat+until%3A2014-07-05",
+        "max_id": 485038535771049984
+    },
+    "statuses": [{
+        "contributors": null,
+        "truncated": false,
+        "text": "\u201c@ddt: @hellofisher @benry @mustefaJ Sorry to post and run but\u2026 http://t.co/BKoVoieY1L #uxchat\u201d good overview of ux for the user",
+        "in_reply_to_status_id": 484855609989144576,
+        "id": 485038535771049984,
+        "favorite_count": 0,
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "symbols": [],
+            "user_mentions": [{
+                "id": 8836032,
+                "indices": [1, 5],
+                "id_str": "8836032",
+                "screen_name": "ddt",
+                "name": "dan turner"
+            }, {
+                "id": 14805765,
+                "indices": [7, 19],
+                "id_str": "14805765",
+                "screen_name": "hellofisher",
+                "name": "Steve Fisher"
+            }, {
+                "id": 1969441,
+                "indices": [20, 26],
+                "id_str": "1969441",
+                "screen_name": "benry",
+                "name": "Scott Baldwin"
+            }, {
+                "id": 194357577,
+                "indices": [27, 36],
+                "id_str": "194357577",
+                "screen_name": "mustefaJ",
+                "name": "Mustefa Jo'shen"
+            }],
+            "hashtags": [{
+                "indices": [87, 94],
+                "text": "uxchat"
+            }],
+            "urls": [{
+                "url": "http://t.co/BKoVoieY1L",
+                "indices": [64, 86],
+                "expanded_url": "http://www.slideshare.net/DanielDrewTurner/ux-course-overview-for-mpictorg",
+                "display_url": "slideshare.net/DanielDrewTurn\u2026"
+            }]
+        },
+        "in_reply_to_screen_name": "ddt",
+        "in_reply_to_user_id": 8836032,
+        "retweet_count": 0,
+        "id_str": "485038535771049984",
+        "favorited": false,
+        "user": {
+            "follow_request_sent": false,
+            "profile_use_background_image": true,
+            "default_profile_image": false,
+            "id": 889160857,
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "verified": false,
+            "profile_text_color": "333333",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000704128571/05256dd6f05affd75b612928ccea52c5_normal.jpeg",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "followers_count": 65,
+            "profile_sidebar_border_color": "C0DEED",
+            "id_str": "889160857",
+            "profile_background_color": "C0DEED",
+            "listed_count": 5,
+            "is_translation_enabled": false,
+            "utc_offset": -10800,
+            "statuses_count": 648,
+            "description": "~Innovator~Learner~Explorer~Connector~Traveller~ interested in the connection between design thinking, placemaking and computational thinking.",
+            "friends_count": 90,
+            "location": "",
+            "profile_link_color": "0084B4",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000704128571/05256dd6f05affd75b612928ccea52c5_normal.jpeg",
+            "following": false,
+            "geo_enabled": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/889160857/1403876284",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "screen_name": "svkwhisper",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 34,
+            "name": "shelley k",
+            "notifications": false,
+            "url": null,
+            "created_at": "Thu Oct 18 15:54:27 +0000 2012",
+            "contributors_enabled": false,
+            "time_zone": "Atlantic Time (Canada)",
+            "protected": false,
+            "default_profile": true,
+            "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": "8836032",
+        "possibly_sensitive": false,
+        "lang": "en",
+        "created_at": "Fri Jul 04 12:32:53 +0000 2014",
+        "in_reply_to_status_id_str": "484855609989144576",
+        "place": null,
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        }
+    }, {
+        "contributors": null,
+        "truncated": false,
+        "text": "RT @benry: @mustefaJ we'd also benefit by demystifying #ux &amp; stop treating it like a dark art, make it approachable like Krug did w/ usabil\u2026",
+        "in_reply_to_status_id": null,
+        "id": 485035151328436224,
+        "favorite_count": 0,
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "symbols": [],
+            "user_mentions": [{
+                "id": 1969441,
+                "indices": [3, 9],
+                "id_str": "1969441",
+                "screen_name": "benry",
+                "name": "Scott Baldwin"
+            }, {
+                "id": 194357577,
+                "indices": [11, 20],
+                "id_str": "194357577",
+                "screen_name": "mustefaJ",
+                "name": "Mustefa Jo'shen"
+            }],
+            "hashtags": [{
+                "indices": [55, 58],
+                "text": "ux"
+            }, {
+                "indices": [143, 144],
+                "text": "uxchat"
+            }],
+            "urls": []
+        },
+        "in_reply_to_screen_name": null,
+        "in_reply_to_user_id": null,
+        "retweet_count": 2,
+        "id_str": "485035151328436224",
+        "favorited": false,
+        "retweeted_status": {
+            "contributors": null,
+            "truncated": false,
+            "text": "@mustefaJ we'd also benefit by demystifying #ux &amp; stop treating it like a dark art, make it approachable like Krug did w/ usability #uxchat",
+            "in_reply_to_status_id": 484852834521714688,
+            "id": 484853748116619264,
+            "favorite_count": 1,
+            "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+            "retweeted": false,
+            "coordinates": null,
+            "entities": {
+                "symbols": [],
+                "user_mentions": [{
+                    "id": 194357577,
+                    "indices": [0, 9],
+                    "id_str": "194357577",
+                    "screen_name": "mustefaJ",
+                    "name": "Mustefa Jo'shen"
+                }],
+                "hashtags": [{
+                    "indices": [44, 47],
+                    "text": "ux"
+                }, {
+                    "indices": [136, 143],
+                    "text": "uxchat"
+                }],
+                "urls": []
+            },
+            "in_reply_to_screen_name": "mustefaJ",
+            "in_reply_to_user_id": 194357577,
+            "retweet_count": 2,
+            "id_str": "484853748116619264",
+            "favorited": false,
+            "user": {
+                "follow_request_sent": false,
+                "profile_use_background_image": true,
+                "default_profile_image": false,
+                "id": 1969441,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "verified": false,
+                "profile_text_color": "666666",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/431214735732645889/ZzdGswCX_normal.png",
+                "profile_sidebar_fill_color": "252429",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                            "url": "http://t.co/CGbM7A32bU",
+                            "indices": [0, 22],
+                            "expanded_url": "http://www.benry.net",
+                            "display_url": "benry.net"
+                        }]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "followers_count": 1416,
+                "profile_sidebar_border_color": "181A1E",
+                "id_str": "1969441",
+                "profile_background_color": "1A1B1F",
+                "listed_count": 173,
+                "is_translation_enabled": false,
+                "utc_offset": -25200,
+                "statuses_count": 17165,
+                "description": "Dad, husband, Director, UX & Design @yellowpencilweb, runner & drummer, w/ deep affection for Clif Bars and Nibs. You? More at @benryblog",
+                "friends_count": 1550,
+                "location": "Vancouver, BC, Canada",
+                "profile_link_color": "000000",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/431214735732645889/ZzdGswCX_normal.png",
+                "following": false,
+                "geo_enabled": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1969441/1351653349",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "screen_name": "benry",
+                "lang": "en",
+                "profile_background_tile": false,
+                "favourites_count": 624,
+                "name": "Scott Baldwin",
+                "notifications": false,
+                "url": "http://t.co/CGbM7A32bU",
+                "created_at": "Fri Mar 23 02:48:21 +0000 2007",
+                "contributors_enabled": false,
+                "time_zone": "Pacific Time (US & Canada)",
+                "protected": false,
+                "default_profile": false,
+                "is_translator": false
+            },
+            "geo": null,
+            "in_reply_to_user_id_str": "194357577",
+            "lang": "en",
+            "created_at": "Fri Jul 04 00:18:36 +0000 2014",
+            "in_reply_to_status_id_str": "484852834521714688",
+            "place": null,
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            }
+        },
+        "user": {
+            "follow_request_sent": false,
+            "profile_use_background_image": true,
+            "default_profile_image": false,
+            "id": 889160857,
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "verified": false,
+            "profile_text_color": "333333",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000704128571/05256dd6f05affd75b612928ccea52c5_normal.jpeg",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "followers_count": 65,
+            "profile_sidebar_border_color": "C0DEED",
+            "id_str": "889160857",
+            "profile_background_color": "C0DEED",
+            "listed_count": 5,
+            "is_translation_enabled": false,
+            "utc_offset": -10800,
+            "statuses_count": 648,
+            "description": "~Innovator~Learner~Explorer~Connector~Traveller~ interested in the connection between design thinking, placemaking and computational thinking.",
+            "friends_count": 90,
+            "location": "",
+            "profile_link_color": "0084B4",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000704128571/05256dd6f05affd75b612928ccea52c5_normal.jpeg",
+            "following": false,
+            "geo_enabled": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/889160857/1403876284",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "screen_name": "svkwhisper",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 34,
+            "name": "shelley k",
+            "notifications": false,
+            "url": null,
+            "created_at": "Thu Oct 18 15:54:27 +0000 2012",
+            "contributors_enabled": false,
+            "time_zone": "Atlantic Time (Canada)",
+            "protected": false,
+            "default_profile": true,
+            "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "lang": "en",
+        "created_at": "Fri Jul 04 12:19:26 +0000 2014",
+        "in_reply_to_status_id_str": null,
+        "place": null,
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        }
+    }, {
+        "contributors": null,
+        "truncated": false,
+        "text": "RT @mustefaJ: Here's an excellent link from @LiamThurston talking about art, history, and design http://t.co/npVVCnnDQo #uxchat",
+        "in_reply_to_status_id": null,
+        "id": 485033279616462849,
+        "favorite_count": 0,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "symbols": [],
+            "user_mentions": [{
+                "id": 194357577,
+                "indices": [3, 12],
+                "id_str": "194357577",
+                "screen_name": "mustefaJ",
+                "name": "Mustefa Jo'shen"
+            }, {
+                "id": 154321380,
+                "indices": [44, 57],
+                "id_str": "154321380",
+                "screen_name": "LiamThurston",
+                "name": "Liam Oscar Thurston"
+            }],
+            "hashtags": [{
+                "indices": [120, 127],
+                "text": "uxchat"
+            }],
+            "urls": [{
+                "url": "http://t.co/npVVCnnDQo",
+                "indices": [97, 119],
+                "expanded_url": "http://blog.twg.ca/2013/10/this-is-the-post-modern-mobile-world/",
+                "display_url": "blog.twg.ca/2013/10/this-i\u2026"
+            }]
+        },
+        "in_reply_to_screen_name": null,
+        "in_reply_to_user_id": null,
+        "retweet_count": 0,
+        "id_str": "485033279616462849",
+        "favorited": false,
+        "user": {
+            "follow_request_sent": false,
+            "profile_use_background_image": false,
+            "default_profile_image": false,
+            "id": 123278675,
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000062477666/215862727fed8ebccf6c21e295697752.jpeg",
+            "verified": false,
+            "profile_text_color": "333333",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000452821109/3de1d9f3cab0295e0cf4fe96987c88c5_normal.png",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/BdEA2dyeng",
+                        "indices": [0, 22],
+                        "expanded_url": "http://twg.ca",
+                        "display_url": "twg.ca"
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "followers_count": 1562,
+            "profile_sidebar_border_color": "FFFFFF",
+            "id_str": "123278675",
+            "profile_background_color": "FFFFFF",
+            "listed_count": 93,
+            "is_translation_enabled": false,
+            "utc_offset": -18000,
+            "statuses_count": 2038,
+            "description": "Good people. Great work. We design and engineer web and mobile products for growing startups and national brands. Est. 2002",
+            "friends_count": 628,
+            "location": "Toronto || NYC",
+            "profile_link_color": "0084B4",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000452821109/3de1d9f3cab0295e0cf4fe96987c88c5_normal.png",
+            "following": false,
+            "geo_enabled": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/123278675/1397148729",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000062477666/215862727fed8ebccf6c21e295697752.jpeg",
+            "screen_name": "TWG",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 175,
+            "name": "The Working Group",
+            "notifications": false,
+            "url": "http://t.co/BdEA2dyeng",
+            "created_at": "Mon Mar 15 15:35:54 +0000 2010",
+            "contributors_enabled": false,
+            "time_zone": "Central Time (US & Canada)",
+            "protected": false,
+            "default_profile": false,
+            "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "created_at": "Fri Jul 04 12:12:00 +0000 2014",
+        "in_reply_to_status_id_str": null,
+        "place": null,
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        }
+    }, {
+        "contributors": null,
+        "truncated": false,
+        "text": "RT @BHohner: @mustefaJ I've been thinking perhaps designers (UX too) could skilfully aid open source projects. They'd definitely be gratefu\u2026",
+        "in_reply_to_status_id": null,
+        "id": 485000850780463104,
+        "favorite_count": 0,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "symbols": [],
+            "user_mentions": [{
+                "id": 509136575,
+                "indices": [3, 11],
+                "id_str": "509136575",
+                "screen_name": "BHohner",
+                "name": "Ben Hohner"
+            }, {
+                "id": 194357577,
+                "indices": [13, 22],
+                "id_str": "194357577",
+                "screen_name": "mustefaJ",
+                "name": "Mustefa Jo'shen"
+            }],
+            "hashtags": [{
+                "indices": [139, 140],
+                "text": "uxchat"
+            }],
+            "urls": []
+        },
+        "in_reply_to_screen_name": null,
+        "in_reply_to_user_id": null,
+        "retweet_count": 1,
+        "id_str": "485000850780463104",
+        "favorited": false,
+        "retweeted_status": {
+            "contributors": null,
+            "truncated": false,
+            "text": "@mustefaJ I've been thinking perhaps designers (UX too) could skilfully aid open source projects. They'd definitely be grateful! #uxchat",
+            "in_reply_to_status_id": 484856778283167744,
+            "id": 484858086058766336,
+            "favorite_count": 1,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "retweeted": false,
+            "coordinates": null,
+            "entities": {
+                "symbols": [],
+                "user_mentions": [{
+                    "id": 194357577,
+                    "indices": [0, 9],
+                    "id_str": "194357577",
+                    "screen_name": "mustefaJ",
+                    "name": "Mustefa Jo'shen"
+                }],
+                "hashtags": [{
+                    "indices": [129, 136],
+                    "text": "uxchat"
+                }],
+                "urls": []
+            },
+            "in_reply_to_screen_name": "mustefaJ",
+            "in_reply_to_user_id": 194357577,
+            "retweet_count": 1,
+            "id_str": "484858086058766336",
+            "favorited": false,
+            "user": {
+                "follow_request_sent": false,
+                "profile_use_background_image": true,
+                "default_profile_image": false,
+                "id": 509136575,
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/449407130768908288/GbgZWFTg.png",
+                "verified": false,
+                "profile_text_color": "56400E",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/3522076280/a9ae0d45dc10689330a4d87fa63dcb8c_normal.jpeg",
+                "profile_sidebar_fill_color": "3E1F17",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                            "url": "http://t.co/l8zRYMCnPG",
+                            "indices": [0, 22],
+                            "expanded_url": "http://ca.linkedin.com/in/benhohner",
+                            "display_url": "ca.linkedin.com/in/benhohner"
+                        }]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "followers_count": 93,
+                "profile_sidebar_border_color": "000000",
+                "id_str": "509136575",
+                "profile_background_color": "364741",
+                "listed_count": 4,
+                "is_translation_enabled": false,
+                "utc_offset": -10800,
+                "statuses_count": 181,
+                "description": "Develop / UX / Design",
+                "friends_count": 253,
+                "location": "Ontario, Canada",
+                "profile_link_color": "02646B",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/3522076280/a9ae0d45dc10689330a4d87fa63dcb8c_normal.jpeg",
+                "following": true,
+                "geo_enabled": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/509136575/1402020090",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/449407130768908288/GbgZWFTg.png",
+                "screen_name": "BHohner",
+                "lang": "en",
+                "profile_background_tile": false,
+                "favourites_count": 55,
+                "name": "Ben Hohner",
+                "notifications": false,
+                "url": "http://t.co/l8zRYMCnPG",
+                "created_at": "Wed Feb 29 19:26:16 +0000 2012",
+                "contributors_enabled": false,
+                "time_zone": "Atlantic Time (Canada)",
+                "protected": false,
+                "default_profile": false,
+                "is_translator": false
+            },
+            "geo": null,
+            "in_reply_to_user_id_str": "194357577",
+            "lang": "en",
+            "created_at": "Fri Jul 04 00:35:50 +0000 2014",
+            "in_reply_to_status_id_str": "484856778283167744",
+            "place": {
+                "full_name": "Toronto, Ontario",
+                "url": "https://api.twitter.com/1.1/geo/id/8f9664a8ccd89e5c.json",
+                "country": "Canada",
+                "place_type": "admin",
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [-79.639319, 43.403221],
+                            [-78.90582, 43.403221],
+                            [-78.90582, 43.855401],
+                            [-79.639319, 43.855401]
+                        ]
+                    ]
+                },
+                "contained_within": [],
+                "country_code": "CA",
+                "attributes": {},
+                "id": "8f9664a8ccd89e5c",
+                "name": "Toronto"
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            }
+        },
+        "user": {
+            "follow_request_sent": false,
+            "profile_use_background_image": false,
+            "default_profile_image": false,
+            "id": 11231752,
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "verified": false,
+            "profile_text_color": "333333",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000133492226/74461ac72c77d6a2a632b41b3be47a6f_normal.jpeg",
+            "profile_sidebar_fill_color": "F3F3F3",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/RRwwjWhVKn",
+                        "indices": [0, 22],
+                        "expanded_url": "http://vickyteinaki.com",
+                        "display_url": "vickyteinaki.com"
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "followers_count": 2894,
+            "profile_sidebar_border_color": "FFFFFF",
+            "id_str": "11231752",
+            "profile_background_color": "F5CB98",
+            "listed_count": 258,
+            "is_translation_enabled": false,
+            "utc_offset": 3600,
+            "statuses_count": 58870,
+            "description": "Investigating design theory and practice: @orangebus UXer, @northumbriauni PhDer, former @johnnyholland editor. Expat Kiwi (aka New Zealander) in the UK.",
+            "friends_count": 1141,
+            "location": "Newcastle upon Tyne",
+            "profile_link_color": "C25F13",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000133492226/74461ac72c77d6a2a632b41b3be47a6f_normal.jpeg",
+            "following": false,
+            "geo_enabled": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/11231752/1398194934",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "screen_name": "vickytnz",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 452,
+            "name": "Vicky Teinaki",
+            "notifications": false,
+            "url": "http://t.co/RRwwjWhVKn",
+            "created_at": "Sun Dec 16 19:48:43 +0000 2007",
+            "contributors_enabled": false,
+            "time_zone": "London",
+            "protected": false,
+            "default_profile": false,
+            "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "lang": "en",
+        "created_at": "Fri Jul 04 10:03:08 +0000 2014",
+        "in_reply_to_status_id_str": null,
+        "place": null,
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        }
+    }, {
+        "contributors": null,
+        "truncated": false,
+        "text": "@vickytnz Vicki Teinaki's notes on this year's #uxscotland conference #UX #uxchat",
+        "in_reply_to_status_id": null,
+        "id": 484990147402805248,
+        "favorite_count": 0,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "retweeted": false,
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [-4.28170354, 55.86667671]
+        },
+        "entities": {
+            "symbols": [],
+            "user_mentions": [{
+                "id": 11231752,
+                "indices": [0, 9],
+                "id_str": "11231752",
+                "screen_name": "vickytnz",
+                "name": "Vicky Teinaki"
+            }],
+            "hashtags": [{
+                "indices": [47, 58],
+                "text": "uxscotland"
+            }, {
+                "indices": [70, 73],
+                "text": "UX"
+            }, {
+                "indices": [74, 81],
+                "text": "uxchat"
+            }],
+            "urls": []
+        },
+        "in_reply_to_screen_name": "vickytnz",
+        "in_reply_to_user_id": 11231752,
+        "retweet_count": 0,
+        "id_str": "484990147402805248",
+        "favorited": false,
+        "user": {
+            "follow_request_sent": false,
+            "profile_use_background_image": true,
+            "default_profile_image": false,
+            "id": 14491736,
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "verified": false,
+            "profile_text_color": "333333",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2201258834/Linkedin_photo_normal.png",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "followers_count": 61,
+            "profile_sidebar_border_color": "C0DEED",
+            "id_str": "14491736",
+            "profile_background_color": "C0DEED",
+            "listed_count": 4,
+            "is_translation_enabled": false,
+            "utc_offset": 7200,
+            "statuses_count": 274,
+            "description": "Strategic Development Analyst for the Student Loans Company - UX, design and analytics for websites.",
+            "friends_count": 62,
+            "location": "",
+            "profile_link_color": "0084B4",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2201258834/Linkedin_photo_normal.png",
+            "following": false,
+            "geo_enabled": true,
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "screen_name": "bobbykingux",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 63,
+            "name": "Bobby King",
+            "notifications": false,
+            "url": null,
+            "created_at": "Wed Apr 23 11:33:12 +0000 2008",
+            "contributors_enabled": false,
+            "time_zone": "Amsterdam",
+            "protected": false,
+            "default_profile": true,
+            "is_translator": false
+        },
+        "geo": {
+            "type": "Point",
+            "coordinates": [55.86667671, -4.28170354]
+        },
+        "in_reply_to_user_id_str": "11231752",
+        "lang": "en",
+        "created_at": "Fri Jul 04 09:20:36 +0000 2014",
+        "in_reply_to_status_id_str": null,
+        "place": {
+            "full_name": "Glasgow",
+            "url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json",
+            "country": "United Kingdom",
+            "place_type": "neighborhood",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [-4.3932845, 55.796184],
+                        [-4.0902182, 55.796184],
+                        [-4.0902182, 55.9204214],
+                        [-4.3932845, 55.9204214]
+                    ]
+                ]
+            },
+            "contained_within": [],
+            "country_code": "GB",
+            "attributes": {},
+            "id": "791e00bcadc4615f",
+            "name": "Glasgow"
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        }
+    }, {
+        "contributors": null,
+        "truncated": false,
+        "text": "@bysusanlin Ha, that question came up in #uxchat. And a Mozilla interview.",
+        "in_reply_to_status_id": 484867409203843073,
+        "id": 484867913145274369,
+        "favorite_count": 1,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "symbols": [],
+            "user_mentions": [{
+                "id": 14607687,
+                "indices": [0, 11],
+                "id_str": "14607687",
+                "screen_name": "bysusanlin",
+                "name": "susan"
+            }],
+            "hashtags": [{
+                "indices": [41, 48],
+                "text": "uxchat"
+            }],
+            "urls": []
+        },
+        "in_reply_to_screen_name": "bysusanlin",
+        "in_reply_to_user_id": 14607687,
+        "retweet_count": 0,
+        "id_str": "484867913145274369",
+        "favorited": false,
+        "user": {
+            "follow_request_sent": false,
+            "profile_use_background_image": true,
+            "default_profile_image": false,
+            "id": 8836032,
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "verified": false,
+            "profile_text_color": "000000",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/477624063976669184/Bqayb15Z_normal.png",
+            "profile_sidebar_fill_color": "E0FF92",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/276yYtZVMP",
+                        "indices": [0, 22],
+                        "expanded_url": "http://www.twoangstroms.com",
+                        "display_url": "twoangstroms.com"
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "followers_count": 754,
+            "profile_sidebar_border_color": "87BC44",
+            "id_str": "8836032",
+            "profile_background_color": "9AE4E8",
+            "listed_count": 59,
+            "is_translation_enabled": false,
+            "utc_offset": -25200,
+            "statuses_count": 24748,
+            "description": "UX: If you know what you're doing, you are not the user.\r\nJournalism: If your mother says she loves you, get a second source.",
+            "friends_count": 327,
+            "location": "Oakland (the nickel-dime)",
+            "profile_link_color": "0000FF",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/477624063976669184/Bqayb15Z_normal.png",
+            "following": false,
+            "geo_enabled": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/8836032/1392786760",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "screen_name": "ddt",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 90,
+            "name": "dan turner",
+            "notifications": false,
+            "url": "http://t.co/276yYtZVMP",
+            "created_at": "Wed Sep 12 16:04:08 +0000 2007",
+            "contributors_enabled": false,
+            "time_zone": "Pacific Time (US & Canada)",
+            "protected": false,
+            "default_profile": false,
+            "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": "14607687",
+        "lang": "en",
+        "created_at": "Fri Jul 04 01:14:53 +0000 2014",
+        "in_reply_to_status_id_str": "484867409203843073",
+        "place": null,
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        }
+    }, {
+        "contributors": null,
+        "truncated": false,
+        "text": "@benry @hellofisher @mustefaJ Yes, High Fives! [and clinking of beer bottles] #uxchat",
+        "in_reply_to_status_id": 484863372601483264,
+        "id": 484864870937280512,
+        "favorite_count": 0,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "symbols": [],
+            "user_mentions": [{
+                "id": 1969441,
+                "indices": [0, 6],
+                "id_str": "1969441",
+                "screen_name": "benry",
+                "name": "Scott Baldwin"
+            }, {
+                "id": 14805765,
+                "indices": [7, 19],
+                "id_str": "14805765",
+                "screen_name": "hellofisher",
+                "name": "Steve Fisher"
+            }, {
+                "id": 194357577,
+                "indices": [20, 29],
+                "id_str": "194357577",
+                "screen_name": "mustefaJ",
+                "name": "Mustefa Jo'shen"
+            }],
+            "hashtags": [{
+                "indices": [78, 85],
+                "text": "uxchat"
+            }],
+            "urls": []
+        },
+        "in_reply_to_screen_name": "benry",
+        "in_reply_to_user_id": 1969441,
+        "retweet_count": 0,
+        "id_str": "484864870937280512",
+        "favorited": false,
+        "user": {
+            "follow_request_sent": false,
+            "profile_use_background_image": true,
+            "default_profile_image": false,
+            "id": 69402135,
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/351190620/twitter_ramones_test.jpg",
+            "verified": false,
+            "profile_text_color": "333333",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2343240725/7u96m0cem6jkp8nxvnwj_normal.jpeg",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/x5ekrBPCRf",
+                        "indices": [0, 22],
+                        "expanded_url": "http://www.andrewsmyk.com",
+                        "display_url": "andrewsmyk.com"
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "followers_count": 1194,
+            "profile_sidebar_border_color": "A8C7F7",
+            "id_str": "69402135",
+            "profile_background_color": "000000",
+            "listed_count": 116,
+            "is_translation_enabled": false,
+            "utc_offset": -14400,
+            "statuses_count": 15441,
+            "description": "Dad, Educator & Mobile UX Designer, Coffee aficionado, speaker, kettlebell killer, avid cyclist, hockey sherpa & HTML5 Evangelist. Coordinator @sheridanIMM",
+            "friends_count": 552,
+            "location": "Toronto",
+            "profile_link_color": "0084B4",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2343240725/7u96m0cem6jkp8nxvnwj_normal.jpeg",
+            "following": true,
+            "geo_enabled": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/69402135/1348335646",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/351190620/twitter_ramones_test.jpg",
+            "screen_name": "andrewsmyk",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 1239,
+            "name": "Andrew Smyk",
+            "notifications": false,
+            "url": "http://t.co/x5ekrBPCRf",
+            "created_at": "Thu Aug 27 20:56:56 +0000 2009",
+            "contributors_enabled": false,
+            "time_zone": "Eastern Time (US & Canada)",
+            "protected": false,
+            "default_profile": false,
+            "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": "1969441",
+        "lang": "en",
+        "created_at": "Fri Jul 04 01:02:48 +0000 2014",
+        "in_reply_to_status_id_str": "484863372601483264",
+        "place": null,
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        }
+    }, {
+        "contributors": null,
+        "truncated": false,
+        "text": "@mustefaJ @hellofisher @benry Users/Clients don't see the code, they interact with the UI. #uxchat",
+        "in_reply_to_status_id": 484862580016820224,
+        "id": 484864633531297792,
+        "favorite_count": 0,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "symbols": [],
+            "user_mentions": [{
+                "id": 194357577,
+                "indices": [0, 9],
+                "id_str": "194357577",
+                "screen_name": "mustefaJ",
+                "name": "Mustefa Jo'shen"
+            }, {
+                "id": 14805765,
+                "indices": [10, 22],
+                "id_str": "14805765",
+                "screen_name": "hellofisher",
+                "name": "Steve Fisher"
+            }, {
+                "id": 1969441,
+                "indices": [23, 29],
+                "id_str": "1969441",
+                "screen_name": "benry",
+                "name": "Scott Baldwin"
+            }],
+            "hashtags": [{
+                "indices": [91, 98],
+                "text": "uxchat"
+            }],
+            "urls": []
+        },
+        "in_reply_to_screen_name": "mustefaJ",
+        "in_reply_to_user_id": 194357577,
+        "retweet_count": 0,
+        "id_str": "484864633531297792",
+        "favorited": false,
+        "user": {
+            "follow_request_sent": false,
+            "profile_use_background_image": true,
+            "default_profile_image": false,
+            "id": 69402135,
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/351190620/twitter_ramones_test.jpg",
+            "verified": false,
+            "profile_text_color": "333333",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2343240725/7u96m0cem6jkp8nxvnwj_normal.jpeg",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/x5ekrBPCRf",
+                        "indices": [0, 22],
+                        "expanded_url": "http://www.andrewsmyk.com",
+                        "display_url": "andrewsmyk.com"
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "followers_count": 1194,
+            "profile_sidebar_border_color": "A8C7F7",
+            "id_str": "69402135",
+            "profile_background_color": "000000",
+            "listed_count": 116,
+            "is_translation_enabled": false,
+            "utc_offset": -14400,
+            "statuses_count": 15441,
+            "description": "Dad, Educator & Mobile UX Designer, Coffee aficionado, speaker, kettlebell killer, avid cyclist, hockey sherpa & HTML5 Evangelist. Coordinator @sheridanIMM",
+            "friends_count": 552,
+            "location": "Toronto",
+            "profile_link_color": "0084B4",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2343240725/7u96m0cem6jkp8nxvnwj_normal.jpeg",
+            "following": true,
+            "geo_enabled": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/69402135/1348335646",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/351190620/twitter_ramones_test.jpg",
+            "screen_name": "andrewsmyk",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 1239,
+            "name": "Andrew Smyk",
+            "notifications": false,
+            "url": "http://t.co/x5ekrBPCRf",
+            "created_at": "Thu Aug 27 20:56:56 +0000 2009",
+            "contributors_enabled": false,
+            "time_zone": "Eastern Time (US & Canada)",
+            "protected": false,
+            "default_profile": false,
+            "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": "194357577",
+        "lang": "en",
+        "created_at": "Fri Jul 04 01:01:51 +0000 2014",
+        "in_reply_to_status_id_str": "484862580016820224",
+        "place": null,
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        }
+    }, {
+        "contributors": null,
+        "truncated": false,
+        "text": "@mustefaJ @benry @hellofisher @andrewsmyk @ddt I love these chats! Thanks guys. #uxchat",
+        "in_reply_to_status_id": 484864068797607936,
+        "id": 484864308002582528,
+        "favorite_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "symbols": [],
+            "user_mentions": [{
+                "id": 194357577,
+                "indices": [0, 9],
+                "id_str": "194357577",
+                "screen_name": "mustefaJ",
+                "name": "Mustefa Jo'shen"
+            }, {
+                "id": 1969441,
+                "indices": [10, 16],
+                "id_str": "1969441",
+                "screen_name": "benry",
+                "name": "Scott Baldwin"
+            }, {
+                "id": 14805765,
+                "indices": [17, 29],
+                "id_str": "14805765",
+                "screen_name": "hellofisher",
+                "name": "Steve Fisher"
+            }, {
+                "id": 69402135,
+                "indices": [30, 41],
+                "id_str": "69402135",
+                "screen_name": "andrewsmyk",
+                "name": "Andrew Smyk"
+            }, {
+                "id": 8836032,
+                "indices": [42, 46],
+                "id_str": "8836032",
+                "screen_name": "ddt",
+                "name": "dan turner"
+            }],
+            "hashtags": [{
+                "indices": [80, 87],
+                "text": "uxchat"
+            }],
+            "urls": []
+        },
+        "in_reply_to_screen_name": "mustefaJ",
+        "in_reply_to_user_id": 194357577,
+        "retweet_count": 0,
+        "id_str": "484864308002582528",
+        "favorited": false,
+        "user": {
+            "follow_request_sent": false,
+            "profile_use_background_image": true,
+            "default_profile_image": false,
+            "id": 509136575,
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/449407130768908288/GbgZWFTg.png",
+            "verified": false,
+            "profile_text_color": "56400E",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3522076280/a9ae0d45dc10689330a4d87fa63dcb8c_normal.jpeg",
+            "profile_sidebar_fill_color": "3E1F17",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/l8zRYMCnPG",
+                        "indices": [0, 22],
+                        "expanded_url": "http://ca.linkedin.com/in/benhohner",
+                        "display_url": "ca.linkedin.com/in/benhohner"
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "followers_count": 93,
+            "profile_sidebar_border_color": "000000",
+            "id_str": "509136575",
+            "profile_background_color": "364741",
+            "listed_count": 4,
+            "is_translation_enabled": false,
+            "utc_offset": -10800,
+            "statuses_count": 181,
+            "description": "Develop / UX / Design",
+            "friends_count": 253,
+            "location": "Ontario, Canada",
+            "profile_link_color": "02646B",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3522076280/a9ae0d45dc10689330a4d87fa63dcb8c_normal.jpeg",
+            "following": true,
+            "geo_enabled": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/509136575/1402020090",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/449407130768908288/GbgZWFTg.png",
+            "screen_name": "BHohner",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 55,
+            "name": "Ben Hohner",
+            "notifications": false,
+            "url": "http://t.co/l8zRYMCnPG",
+            "created_at": "Wed Feb 29 19:26:16 +0000 2012",
+            "contributors_enabled": false,
+            "time_zone": "Atlantic Time (Canada)",
+            "protected": false,
+            "default_profile": false,
+            "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": "194357577",
+        "lang": "en",
+        "created_at": "Fri Jul 04 01:00:34 +0000 2014",
+        "in_reply_to_status_id_str": "484864068797607936",
+        "place": {
+            "full_name": "Toronto, Ontario",
+            "url": "https://api.twitter.com/1.1/geo/id/8f9664a8ccd89e5c.json",
+            "country": "Canada",
+            "place_type": "admin",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [-79.639319, 43.403221],
+                        [-78.90582, 43.403221],
+                        [-78.90582, 43.855401],
+                        [-79.639319, 43.855401]
+                    ]
+                ]
+            },
+            "contained_within": [],
+            "country_code": "CA",
+            "attributes": {},
+            "id": "8f9664a8ccd89e5c",
+            "name": "Toronto"
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        }
+    }, {
+        "contributors": null,
+        "truncated": false,
+        "text": "@benry @hellofisher @andrewsmyk @BHohner @ddt Enjoy the night all! #uxchat",
+        "in_reply_to_status_id": 484863778035867648,
+        "id": 484864068797607936,
+        "favorite_count": 0,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "symbols": [],
+            "user_mentions": [{
+                "id": 1969441,
+                "indices": [0, 6],
+                "id_str": "1969441",
+                "screen_name": "benry",
+                "name": "Scott Baldwin"
+            }, {
+                "id": 14805765,
+                "indices": [7, 19],
+                "id_str": "14805765",
+                "screen_name": "hellofisher",
+                "name": "Steve Fisher"
+            }, {
+                "id": 69402135,
+                "indices": [20, 31],
+                "id_str": "69402135",
+                "screen_name": "andrewsmyk",
+                "name": "Andrew Smyk"
+            }, {
+                "id": 509136575,
+                "indices": [32, 40],
+                "id_str": "509136575",
+                "screen_name": "BHohner",
+                "name": "Ben Hohner"
+            }, {
+                "id": 8836032,
+                "indices": [41, 45],
+                "id_str": "8836032",
+                "screen_name": "ddt",
+                "name": "dan turner"
+            }],
+            "hashtags": [{
+                "indices": [67, 74],
+                "text": "uxchat"
+            }],
+            "urls": []
+        },
+        "in_reply_to_screen_name": "mustefaJ",
+        "in_reply_to_user_id": 194357577,
+        "retweet_count": 0,
+        "id_str": "484864068797607936",
+        "favorited": false,
+        "user": {
+            "follow_request_sent": false,
+            "profile_use_background_image": true,
+            "default_profile_image": false,
+            "id": 194357577,
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "verified": false,
+            "profile_text_color": "666666",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/479414749604503552/6XH45zsW_normal.jpeg",
+            "profile_sidebar_fill_color": "252429",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/J3HrCOMVgf",
+                        "indices": [0, 22],
+                        "expanded_url": "http://tailoredux.com",
+                        "display_url": "tailoredux.com"
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "followers_count": 858,
+            "profile_sidebar_border_color": "181A1E",
+            "id_str": "194357577",
+            "profile_background_color": "1A1B1F",
+            "listed_count": 40,
+            "is_translation_enabled": false,
+            "utc_offset": -18000,
+            "statuses_count": 8072,
+            "description": "Founder & Designer @tailoredUX. We help startups build businesses w/ great design. I care about UX, EdTech, & Social Impact. Organizer @TorontoUX & #uxchat",
+            "friends_count": 472,
+            "location": "Toronto, Canada. ",
+            "profile_link_color": "ED2F2F",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/479414749604503552/6XH45zsW_normal.jpeg",
+            "following": true,
+            "geo_enabled": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/194357577/1398702691",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "screen_name": "mustefaJ",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 2132,
+            "name": "Mustefa Jo'shen",
+            "notifications": false,
+            "url": "http://t.co/J3HrCOMVgf",
+            "created_at": "Thu Sep 23 23:05:19 +0000 2010",
+            "contributors_enabled": false,
+            "time_zone": "Quito",
+            "protected": false,
+            "default_profile": false,
+            "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": "194357577",
+        "lang": "en",
+        "created_at": "Fri Jul 04 00:59:37 +0000 2014",
+        "in_reply_to_status_id_str": "484863778035867648",
+        "place": null,
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        }
+    }, {
+        "contributors": null,
+        "truncated": false,
+        "text": "@mustefaJ glad I could make it #uxchat",
+        "in_reply_to_status_id": 484863778035867648,
+        "id": 484863981689921536,
+        "favorite_count": 0,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "symbols": [],
+            "user_mentions": [{
+                "id": 194357577,
+                "indices": [0, 9],
+                "id_str": "194357577",
+                "screen_name": "mustefaJ",
+                "name": "Mustefa Jo'shen"
+            }],
+            "hashtags": [{
+                "indices": [31, 38],
+                "text": "uxchat"
+            }],
+            "urls": []
+        },
+        "in_reply_to_screen_name": "mustefaJ",
+        "in_reply_to_user_id": 194357577,
+        "retweet_count": 0,
+        "id_str": "484863981689921536",
+        "favorited": false,
+        "user": {
+            "follow_request_sent": false,
+            "profile_use_background_image": true,
+            "default_profile_image": false,
+            "id": 1969441,
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "verified": false,
+            "profile_text_color": "666666",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/431214735732645889/ZzdGswCX_normal.png",
+            "profile_sidebar_fill_color": "252429",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/CGbM7A32bU",
+                        "indices": [0, 22],
+                        "expanded_url": "http://www.benry.net",
+                        "display_url": "benry.net"
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "followers_count": 1416,
+            "profile_sidebar_border_color": "181A1E",
+            "id_str": "1969441",
+            "profile_background_color": "1A1B1F",
+            "listed_count": 173,
+            "is_translation_enabled": false,
+            "utc_offset": -25200,
+            "statuses_count": 17165,
+            "description": "Dad, husband, Director, UX & Design @yellowpencilweb, runner & drummer, w/ deep affection for Clif Bars and Nibs. You? More at @benryblog",
+            "friends_count": 1550,
+            "location": "Vancouver, BC, Canada",
+            "profile_link_color": "000000",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/431214735732645889/ZzdGswCX_normal.png",
+            "following": false,
+            "geo_enabled": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1969441/1351653349",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "screen_name": "benry",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 624,
+            "name": "Scott Baldwin",
+            "notifications": false,
+            "url": "http://t.co/CGbM7A32bU",
+            "created_at": "Fri Mar 23 02:48:21 +0000 2007",
+            "contributors_enabled": false,
+            "time_zone": "Pacific Time (US & Canada)",
+            "protected": false,
+            "default_profile": false,
+            "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": "194357577",
+        "lang": "en",
+        "created_at": "Fri Jul 04 00:59:16 +0000 2014",
+        "in_reply_to_status_id_str": "484863778035867648",
+        "place": null,
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        }
+    }, {
+        "contributors": null,
+        "truncated": false,
+        "text": "@benry @hellofisher @andrewsmyk @BHohner @ddt Yes! Thanks for joining in tonight everyone :) #uxchat",
+        "in_reply_to_status_id": 484863372601483264,
+        "id": 484863778035867648,
+        "favorite_count": 1,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "symbols": [],
+            "user_mentions": [{
+                "id": 1969441,
+                "indices": [0, 6],
+                "id_str": "1969441",
+                "screen_name": "benry",
+                "name": "Scott Baldwin"
+            }, {
+                "id": 14805765,
+                "indices": [7, 19],
+                "id_str": "14805765",
+                "screen_name": "hellofisher",
+                "name": "Steve Fisher"
+            }, {
+                "id": 69402135,
+                "indices": [20, 31],
+                "id_str": "69402135",
+                "screen_name": "andrewsmyk",
+                "name": "Andrew Smyk"
+            }, {
+                "id": 509136575,
+                "indices": [32, 40],
+                "id_str": "509136575",
+                "screen_name": "BHohner",
+                "name": "Ben Hohner"
+            }, {
+                "id": 8836032,
+                "indices": [41, 45],
+                "id_str": "8836032",
+                "screen_name": "ddt",
+                "name": "dan turner"
+            }],
+            "hashtags": [{
+                "indices": [93, 100],
+                "text": "uxchat"
+            }],
+            "urls": []
+        },
+        "in_reply_to_screen_name": "benry",
+        "in_reply_to_user_id": 1969441,
+        "retweet_count": 0,
+        "id_str": "484863778035867648",
+        "favorited": false,
+        "user": {
+            "follow_request_sent": false,
+            "profile_use_background_image": true,
+            "default_profile_image": false,
+            "id": 194357577,
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "verified": false,
+            "profile_text_color": "666666",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/479414749604503552/6XH45zsW_normal.jpeg",
+            "profile_sidebar_fill_color": "252429",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/J3HrCOMVgf",
+                        "indices": [0, 22],
+                        "expanded_url": "http://tailoredux.com",
+                        "display_url": "tailoredux.com"
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "followers_count": 858,
+            "profile_sidebar_border_color": "181A1E",
+            "id_str": "194357577",
+            "profile_background_color": "1A1B1F",
+            "listed_count": 40,
+            "is_translation_enabled": false,
+            "utc_offset": -18000,
+            "statuses_count": 8072,
+            "description": "Founder & Designer @tailoredUX. We help startups build businesses w/ great design. I care about UX, EdTech, & Social Impact. Organizer @TorontoUX & #uxchat",
+            "friends_count": 472,
+            "location": "Toronto, Canada. ",
+            "profile_link_color": "ED2F2F",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/479414749604503552/6XH45zsW_normal.jpeg",
+            "following": true,
+            "geo_enabled": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/194357577/1398702691",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "screen_name": "mustefaJ",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 2132,
+            "name": "Mustefa Jo'shen",
+            "notifications": false,
+            "url": "http://t.co/J3HrCOMVgf",
+            "created_at": "Thu Sep 23 23:05:19 +0000 2010",
+            "contributors_enabled": false,
+            "time_zone": "Quito",
+            "protected": false,
+            "default_profile": false,
+            "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": "1969441",
+        "lang": "en",
+        "created_at": "Fri Jul 04 00:58:27 +0000 2014",
+        "in_reply_to_status_id_str": "484863372601483264",
+        "place": null,
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        }
+    }, {
+        "contributors": null,
+        "truncated": false,
+        "text": "Design language, design experience, design information, but can you design art? Design merely means creating with intent and purpose #uxchat",
+        "in_reply_to_status_id": null,
+        "id": 484863507410604032,
+        "favorite_count": 3,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "symbols": [],
+            "user_mentions": [],
+            "hashtags": [{
+                "indices": [133, 140],
+                "text": "uxchat"
+            }],
+            "urls": []
+        },
+        "in_reply_to_screen_name": null,
+        "in_reply_to_user_id": null,
+        "retweet_count": 0,
+        "id_str": "484863507410604032",
+        "favorited": false,
+        "user": {
+            "follow_request_sent": false,
+            "profile_use_background_image": true,
+            "default_profile_image": false,
+            "id": 509136575,
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/449407130768908288/GbgZWFTg.png",
+            "verified": false,
+            "profile_text_color": "56400E",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3522076280/a9ae0d45dc10689330a4d87fa63dcb8c_normal.jpeg",
+            "profile_sidebar_fill_color": "3E1F17",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/l8zRYMCnPG",
+                        "indices": [0, 22],
+                        "expanded_url": "http://ca.linkedin.com/in/benhohner",
+                        "display_url": "ca.linkedin.com/in/benhohner"
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "followers_count": 93,
+            "profile_sidebar_border_color": "000000",
+            "id_str": "509136575",
+            "profile_background_color": "364741",
+            "listed_count": 4,
+            "is_translation_enabled": false,
+            "utc_offset": -10800,
+            "statuses_count": 181,
+            "description": "Develop / UX / Design",
+            "friends_count": 253,
+            "location": "Ontario, Canada",
+            "profile_link_color": "02646B",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3522076280/a9ae0d45dc10689330a4d87fa63dcb8c_normal.jpeg",
+            "following": true,
+            "geo_enabled": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/509136575/1402020090",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/449407130768908288/GbgZWFTg.png",
+            "screen_name": "BHohner",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 55,
+            "name": "Ben Hohner",
+            "notifications": false,
+            "url": "http://t.co/l8zRYMCnPG",
+            "created_at": "Wed Feb 29 19:26:16 +0000 2012",
+            "contributors_enabled": false,
+            "time_zone": "Atlantic Time (Canada)",
+            "protected": false,
+            "default_profile": false,
+            "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "lang": "en",
+        "created_at": "Fri Jul 04 00:57:23 +0000 2014",
+        "in_reply_to_status_id_str": null,
+        "place": {
+            "full_name": "Toronto, Ontario",
+            "url": "https://api.twitter.com/1.1/geo/id/8f9664a8ccd89e5c.json",
+            "country": "Canada",
+            "place_type": "admin",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [-79.639319, 43.403221],
+                        [-78.90582, 43.403221],
+                        [-78.90582, 43.855401],
+                        [-79.639319, 43.855401]
+                    ]
+                ]
+            },
+            "contained_within": [],
+            "country_code": "CA",
+            "attributes": {},
+            "id": "8f9664a8ccd89e5c",
+            "name": "Toronto"
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        }
+    }, {
+        "contributors": null,
+        "truncated": false,
+        "text": "RT @benry: @hellofisher @mustefaJ @andrewsmyk high fives all around #uxchat",
+        "in_reply_to_status_id": null,
+        "id": 484863411810234368,
+        "favorite_count": 0,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "symbols": [],
+            "user_mentions": [{
+                "id": 1969441,
+                "indices": [3, 9],
+                "id_str": "1969441",
+                "screen_name": "benry",
+                "name": "Scott Baldwin"
+            }, {
+                "id": 14805765,
+                "indices": [11, 23],
+                "id_str": "14805765",
+                "screen_name": "hellofisher",
+                "name": "Steve Fisher"
+            }, {
+                "id": 194357577,
+                "indices": [24, 33],
+                "id_str": "194357577",
+                "screen_name": "mustefaJ",
+                "name": "Mustefa Jo'shen"
+            }, {
+                "id": 69402135,
+                "indices": [34, 45],
+                "id_str": "69402135",
+                "screen_name": "andrewsmyk",
+                "name": "Andrew Smyk"
+            }],
+            "hashtags": [{
+                "indices": [68, 75],
+                "text": "uxchat"
+            }],
+            "urls": []
+        },
+        "in_reply_to_screen_name": null,
+        "in_reply_to_user_id": null,
+        "retweet_count": 1,
+        "id_str": "484863411810234368",
+        "favorited": false,
+        "retweeted_status": {
+            "contributors": null,
+            "truncated": false,
+            "text": "@hellofisher @mustefaJ @andrewsmyk high fives all around #uxchat",
+            "in_reply_to_status_id": 484863088315727872,
+            "id": 484863372601483264,
+            "favorite_count": 1,
+            "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+            "retweeted": false,
+            "coordinates": null,
+            "entities": {
+                "symbols": [],
+                "user_mentions": [{
+                    "id": 14805765,
+                    "indices": [0, 12],
+                    "id_str": "14805765",
+                    "screen_name": "hellofisher",
+                    "name": "Steve Fisher"
+                }, {
+                    "id": 194357577,
+                    "indices": [13, 22],
+                    "id_str": "194357577",
+                    "screen_name": "mustefaJ",
+                    "name": "Mustefa Jo'shen"
+                }, {
+                    "id": 69402135,
+                    "indices": [23, 34],
+                    "id_str": "69402135",
+                    "screen_name": "andrewsmyk",
+                    "name": "Andrew Smyk"
+                }],
+                "hashtags": [{
+                    "indices": [57, 64],
+                    "text": "uxchat"
+                }],
+                "urls": []
+            },
+            "in_reply_to_screen_name": "hellofisher",
+            "in_reply_to_user_id": 14805765,
+            "retweet_count": 1,
+            "id_str": "484863372601483264",
+            "favorited": false,
+            "user": {
+                "follow_request_sent": false,
+                "profile_use_background_image": true,
+                "default_profile_image": false,
+                "id": 1969441,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "verified": false,
+                "profile_text_color": "666666",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/431214735732645889/ZzdGswCX_normal.png",
+                "profile_sidebar_fill_color": "252429",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                            "url": "http://t.co/CGbM7A32bU",
+                            "indices": [0, 22],
+                            "expanded_url": "http://www.benry.net",
+                            "display_url": "benry.net"
+                        }]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "followers_count": 1416,
+                "profile_sidebar_border_color": "181A1E",
+                "id_str": "1969441",
+                "profile_background_color": "1A1B1F",
+                "listed_count": 173,
+                "is_translation_enabled": false,
+                "utc_offset": -25200,
+                "statuses_count": 17165,
+                "description": "Dad, husband, Director, UX & Design @yellowpencilweb, runner & drummer, w/ deep affection for Clif Bars and Nibs. You? More at @benryblog",
+                "friends_count": 1550,
+                "location": "Vancouver, BC, Canada",
+                "profile_link_color": "000000",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/431214735732645889/ZzdGswCX_normal.png",
+                "following": false,
+                "geo_enabled": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1969441/1351653349",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "screen_name": "benry",
+                "lang": "en",
+                "profile_background_tile": false,
+                "favourites_count": 624,
+                "name": "Scott Baldwin",
+                "notifications": false,
+                "url": "http://t.co/CGbM7A32bU",
+                "created_at": "Fri Mar 23 02:48:21 +0000 2007",
+                "contributors_enabled": false,
+                "time_zone": "Pacific Time (US & Canada)",
+                "protected": false,
+                "default_profile": false,
+                "is_translator": false
+            },
+            "geo": null,
+            "in_reply_to_user_id_str": "14805765",
+            "lang": "en",
+            "created_at": "Fri Jul 04 00:56:51 +0000 2014",
+            "in_reply_to_status_id_str": "484863088315727872",
+            "place": null,
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            }
+        },
+        "user": {
+            "follow_request_sent": false,
+            "profile_use_background_image": true,
+            "default_profile_image": false,
+            "id": 194357577,
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "verified": false,
+            "profile_text_color": "666666",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/479414749604503552/6XH45zsW_normal.jpeg",
+            "profile_sidebar_fill_color": "252429",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/J3HrCOMVgf",
+                        "indices": [0, 22],
+                        "expanded_url": "http://tailoredux.com",
+                        "display_url": "tailoredux.com"
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "followers_count": 858,
+            "profile_sidebar_border_color": "181A1E",
+            "id_str": "194357577",
+            "profile_background_color": "1A1B1F",
+            "listed_count": 40,
+            "is_translation_enabled": false,
+            "utc_offset": -18000,
+            "statuses_count": 8072,
+            "description": "Founder & Designer @tailoredUX. We help startups build businesses w/ great design. I care about UX, EdTech, & Social Impact. Organizer @TorontoUX & #uxchat",
+            "friends_count": 472,
+            "location": "Toronto, Canada. ",
+            "profile_link_color": "ED2F2F",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/479414749604503552/6XH45zsW_normal.jpeg",
+            "following": true,
+            "geo_enabled": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/194357577/1398702691",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "screen_name": "mustefaJ",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 2132,
+            "name": "Mustefa Jo'shen",
+            "notifications": false,
+            "url": "http://t.co/J3HrCOMVgf",
+            "created_at": "Thu Sep 23 23:05:19 +0000 2010",
+            "contributors_enabled": false,
+            "time_zone": "Quito",
+            "protected": false,
+            "default_profile": false,
+            "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "lang": "en",
+        "created_at": "Fri Jul 04 00:57:00 +0000 2014",
+        "in_reply_to_status_id_str": null,
+        "place": null,
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        }
+    }, {
+        "contributors": null,
+        "truncated": false,
+        "text": "@hellofisher @mustefaJ @andrewsmyk high fives all around #uxchat",
+        "in_reply_to_status_id": 484863088315727872,
+        "id": 484863372601483264,
+        "favorite_count": 1,
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "symbols": [],
+            "user_mentions": [{
+                "id": 14805765,
+                "indices": [0, 12],
+                "id_str": "14805765",
+                "screen_name": "hellofisher",
+                "name": "Steve Fisher"
+            }, {
+                "id": 194357577,
+                "indices": [13, 22],
+                "id_str": "194357577",
+                "screen_name": "mustefaJ",
+                "name": "Mustefa Jo'shen"
+            }, {
+                "id": 69402135,
+                "indices": [23, 34],
+                "id_str": "69402135",
+                "screen_name": "andrewsmyk",
+                "name": "Andrew Smyk"
+            }],
+            "hashtags": [{
+                "indices": [57, 64],
+                "text": "uxchat"
+            }],
+            "urls": []
+        },
+        "in_reply_to_screen_name": "hellofisher",
+        "in_reply_to_user_id": 14805765,
+        "retweet_count": 1,
+        "id_str": "484863372601483264",
+        "favorited": false,
+        "user": {
+            "follow_request_sent": false,
+            "profile_use_background_image": true,
+            "default_profile_image": false,
+            "id": 1969441,
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "verified": false,
+            "profile_text_color": "666666",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/431214735732645889/ZzdGswCX_normal.png",
+            "profile_sidebar_fill_color": "252429",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/CGbM7A32bU",
+                        "indices": [0, 22],
+                        "expanded_url": "http://www.benry.net",
+                        "display_url": "benry.net"
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "followers_count": 1416,
+            "profile_sidebar_border_color": "181A1E",
+            "id_str": "1969441",
+            "profile_background_color": "1A1B1F",
+            "listed_count": 173,
+            "is_translation_enabled": false,
+            "utc_offset": -25200,
+            "statuses_count": 17165,
+            "description": "Dad, husband, Director, UX & Design @yellowpencilweb, runner & drummer, w/ deep affection for Clif Bars and Nibs. You? More at @benryblog",
+            "friends_count": 1550,
+            "location": "Vancouver, BC, Canada",
+            "profile_link_color": "000000",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/431214735732645889/ZzdGswCX_normal.png",
+            "following": false,
+            "geo_enabled": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1969441/1351653349",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "screen_name": "benry",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 624,
+            "name": "Scott Baldwin",
+            "notifications": false,
+            "url": "http://t.co/CGbM7A32bU",
+            "created_at": "Fri Mar 23 02:48:21 +0000 2007",
+            "contributors_enabled": false,
+            "time_zone": "Pacific Time (US & Canada)",
+            "protected": false,
+            "default_profile": false,
+            "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": "14805765",
+        "lang": "en",
+        "created_at": "Fri Jul 04 00:56:51 +0000 2014",
+        "in_reply_to_status_id_str": "484863088315727872",
+        "place": null,
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        }
+    }]
+}

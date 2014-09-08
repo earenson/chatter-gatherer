@@ -1,0 +1,12 @@
+$def with (tweets)
+
+<h1>Displaying Chat</h1>
+
+<h2>Tweets</h2>
+<ul>
+$for i in tweets:
+	<li class="tweet">
+		<p class="text">$i.text</p>
+		<p class="user-data"><a href="$i.url"><img src="$i.profile_image_url">$i.name</a></p>
+	</li>
+</ul>

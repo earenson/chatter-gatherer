@@ -1,0 +1,5 @@
+# Configuration Files #
+config.ini
+
+# Database Files (if using SQLLite) #
+*.db
