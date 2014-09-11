@@ -2,12 +2,14 @@
 stream.py
 Description: Used to collect twitter chats via the Stream API
 '''
+#!/usr/bin/python
 
 from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
 from tweepy import Stream
 from tweepy import API
 
+import sys
 import time
 import sqlite3
 from ConfigParser import SafeConfigParser
@@ -24,6 +26,10 @@ consumer_secret = parser.get('twitter','consumer_secret')
 # SET UP TWITTER OAUTH
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
+
+# GRAB HASHTAG TO COLLECT
+args = sys.argv
+hashtag = args[1]
 
 # CONNECT TO DB
 con = sqlite3.connect('database.db')
@@ -78,4 +84,4 @@ def write_to_db(tweet):
 # GO!
 if __name__ == "__main__":
 	twitterStream = Stream(auth, listener())
-	twitterStream.filter(track=["yolo"])
+	twitterStream.filter(track=[hashtag])
