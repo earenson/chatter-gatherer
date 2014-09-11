@@ -15,7 +15,8 @@ con.execute('''CREATE TABLE tweets (
 		favorite_count int,
 		retweet_count int,
 		in_reply_to_status_id bigint,
-		in_reply_to_user_id bigint
+		in_reply_to_user_id bigint,
+		tweet_type varchar(24),
 		chat_id int,
 		PRIMARY KEY (id)
 	)
