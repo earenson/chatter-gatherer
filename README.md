@@ -4,6 +4,8 @@ chatter-gatherer
 A small Python-based script to collect and display Twitter chats according to hashtag.
 
 ## Setup
+You'll first need to create a file called `config.ini` containing your Twitter API credentials. Use `sample.config.ini` as a reference.
+
 This script uses SQLite to store tweets, so the first thing you'll need to do is run `python db_init.py`. This will create the empty database necessary.
 
 ## Collecting Tweets
