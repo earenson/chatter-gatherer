@@ -9,6 +9,7 @@ from tweepy import OAuthHandler
 from tweepy import Stream
 from tweepy import API
 
+import re
 import sys
 import time
 import sqlite3
@@ -62,16 +63,32 @@ def get_chat_id():
 		cur.execute("INSERT INTO chats (created_at) VALUES(?)", (today,))
 		print "New chat created: %s" % today
 
+def parse_tweet(content):
+	# Does this tweet contain a Question (Pattern: Q1, Q2, etc), Answer (A1, A2, etc.)
+	# or a Topic (TOPIC)
+	pattern = re.compile("^[AQaq]\d+|^TOPIC")
+	type_regex = pattern.search(content)
+
+	if type_regex is not None:
+		if type_regex.group(0) == "TOPIC":
+			return "topic"
+		elif type_regex.group(0)[0] == "A":
+			return "answer"
+		elif type_regex.group(0)[0] == "Q":
+			return "question"
+	else:
+		return ""
 
 def write_to_db(tweet):
 
 	chat_id = get_chat_id()
+	tweet_type = parse_tweet(tweet.text)
 
 	# CHECK: Does this tweet ID exist? If not, insert into tweets
 	cur.execute("SELECT id FROM tweets WHERE id=?", (tweet.id,))
 	data = cur.fetchone()
 	if data is None:
-		cur.execute("INSERT INTO tweets VALUES(?,?,?,?,?,?,?,?,?)", (tweet.id, tweet.created_at, tweet.user.id, tweet.text, tweet.favorite_count, tweet.retweet_count, tweet.in_reply_to_status_id, tweet.in_reply_to_user_id, chat_id)) 
+		cur.execute("INSERT INTO tweets VALUES(?,?,?,?,?,?,?,?,?,?)", (tweet.id, tweet.created_at, tweet.user.id, tweet.text, tweet.favorite_count, tweet.retweet_count, tweet.in_reply_to_status_id, tweet.in_reply_to_user_id, tweet_type, chat_id)) 
 		con.commit()
 
 	# CHECK: Does this user exist? If not, insert into users
