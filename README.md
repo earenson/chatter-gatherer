@@ -16,4 +16,4 @@ The script requires web.py (http://webpy.org/) to display the tweets from databa
 
 ## TODOs
 1. Style the html display pages
-2. Separate questions, answers, and topics by format (Q1, A1, TOPIC) in tweet content
+2. Revisit how chats are marked - currently it uses the date, but that won't work for collecting multiple chats on the same day
